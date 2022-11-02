@@ -3,22 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "obj/sprite_sheet/Test 64x64/thunder64x64.tmx",
     "expandedProjectPaths": [
         "obj/img/schwarzeNacht",
-        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia/TiledMap Editor",
-        "C:/tgs/gt/rootshalloween/font",
-        "obj/img",
-        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia",
-        "map",
-        "obj/img/EPIC-props",
-        "obj",
-        "obj/img/table_chair",
-        "obj/img/ruin",
-        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins",
         "obj/img/Stardewvalley",
+        "obj/sprite_sheet",
+        "C:/tgs/gt/summon_pet/chocobo01",
+        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia",
+        "C:/tgs/gt/rootshalloween/font",
+        "obj/img/table_chair",
+        "obj",
+        "obj/img",
+        "obj/sprite_sheet/Test 64x64",
+        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia/TiledMap Editor",
         "obj/img/GatherDoor",
-        "C:/tgs/gt/summon_pet/chocobo01"
+        ".",
+        "obj/img/ruin"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -423,6 +423,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -430,6 +434,14 @@
         "obj/sprite_sheet/Test 64x64/test64x64.tsx": {
             "scaleInDock": 0.125,
             "scaleInEditor": 1
+        },
+        "obj/sprite_sheet/Test 64x64/thunder64x64.tmx": {
+            "scale": 3.3658203125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 127.75488887599376,
+                "y": 32.2358266117333
+            }
         }
     },
     "last.imagePath": "C:/Leunited/obj/sprite_sheet/Test 64x64",
@@ -439,9 +451,13 @@
     "map.tileWidth": 64,
     "map.width": 4,
     "openFiles": [
+        "obj/sprite_sheet/Test 64x64/thunder64x64.tmx",
+        "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx"
     ],
     "project": "Leunited.tiled-project",
     "recentFiles": [
+        "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx",
+        "obj/sprite_sheet/Test 64x64/thunder64x64.tmx",
         "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.tsx",
         "obj/sprite_sheet/Test 64x64/test64x64.tsx",
         "obj/img/EPIC-props/epic-props.tsx",
@@ -451,9 +467,7 @@
         "obj/img/table_chair/d7pwdx4-0bcfc8fa-8b1b-4194-b57b-6c2361b98732.tsx",
         "map/main.tmx",
         "C:/tgs/gt/trinityroots/trinityroots_wework_them.tmx",
-        "C:/tgs/gt/trinityroots/readme.tmx",
-        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia/TiledMap Editor/Ancient Ruins-wall-8-rule.tmx",
-        "obj/img/EPIC RPG World Pack - [FREE Demo]Ancient Ruins/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia/TiledMap Editor/TiledMap Editor Example Demo- Ancient Ruins.tmx"
+        "C:/tgs/gt/trinityroots/readme.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

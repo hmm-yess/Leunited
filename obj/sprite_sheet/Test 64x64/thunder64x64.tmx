@@ -3,7 +3,7 @@
  <tileset firstgid="1" source="sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx"/>
  <layer id="1" name="Tile Layer 1" width="4" height="1">
   <data encoding="csv">
-14,23,23,14
+14,20,23,35
 </data>
  </layer>
 </map>
