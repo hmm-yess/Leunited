@@ -442,14 +442,22 @@
                 "x": 129.8346196251378,
                 "y": 32.2358266117333
             }
+        },
+        "obj/sprite_sheet/kind/kind.tmx": {
+            "scale": 1.3463281249999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.12998317182155,
+                "y": 48.65084431033483
+            }
         }
     },
-    "last.imagePath": "C:/Leunited/obj/sprite_sheet/kind",
-    "map.height": 3,
+    "last.imagePath": "C:/Leunited/obj/sprite_sheet/dragon01/Animations/Great Red Wyrm",
+    "map.height": 1,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 32,
     "map.tileWidth": 32,
-    "map.width": 20,
+    "map.width": 8,
     "openFiles": [
         "obj/sprite_sheet/Test 64x64/thunder64x64.tmx",
         "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx"
