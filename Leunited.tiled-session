@@ -439,17 +439,17 @@
             "scale": 3.3658203125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 127.75488887599376,
+                "x": 129.8346196251378,
                 "y": 32.2358266117333
             }
         }
     },
-    "last.imagePath": "C:/Leunited/obj/sprite_sheet/Test 64x64",
-    "map.height": 1,
+    "last.imagePath": "C:/Leunited/obj/sprite_sheet/kind",
+    "map.height": 3,
     "map.lastUsedFormat": "tmx",
-    "map.tileHeight": 64,
-    "map.tileWidth": 64,
-    "map.width": 4,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 20,
     "openFiles": [
         "obj/sprite_sheet/Test 64x64/thunder64x64.tmx",
         "obj/sprite_sheet/Test 64x64/sprite-sheet-with-lightnings-thunderbolt-strikes-set-fx-animation-realistic-set-purple-electric-impact-night-sparking-discharge-thunderstorm-isolated-transparent-background_107791-4362.png.tsx"
@@ -471,7 +471,7 @@
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
-        "height": 64,
-        "width": 64
+        "height": 32,
+        "width": 32
     }
 }
